@@ -1,3 +1,7 @@
 # Summer 2024 project
-sample README file with changes to come
+main goals
+- Getting comfortable with version control
+- Learning new languages like Python, numpy, and JavaScript
+- Utilizing APIs
 # FantasyTradeAnalyzer
+Creating a Fantasy Trade Analyzer that will compare trades
